@@ -7,16 +7,14 @@ public class Main {
         String temps;
         int dia = (segundo / 86400) + 1;
         int segundosRestantes = (segundo % 86400);
-        if (segundosRestantes < 43200){
+        if (segundosRestantes < 43200) {
             temps = "mati ";
         } else {
             temps = "nit";
         }
-        System.out.println(temps+" del dia "+dia);
+        System.out.println(temps + " del dia " + dia);
     }
-<<<<<<< HEAD
+}
 
-//agregando cambios para el dev1
-=======
-//este es el cambio en la rama 2
->>>>>>> dev2
+
+
