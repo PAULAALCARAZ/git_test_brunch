@@ -14,5 +14,9 @@ public class Main {
         }
         System.out.println(temps+" del dia "+dia);
     }
-}
+<<<<<<< HEAD
+
 //agregando cambios para el dev1
+=======
+//este es el cambio en la rama 2
+>>>>>>> dev2
